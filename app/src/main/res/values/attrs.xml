@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--为哪一个自定义控件添加自定义属性-->
+    <declare-styleable name="CustomBanner">
+        <!--name="time"表示在xml布局里面使用的时候引用的属性名...format表示该属性的数据类型-->
+        <attr name="time" format="integer"/>
+
+    </declare-styleable>
+</resources>
